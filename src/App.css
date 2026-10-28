@@ -1,0 +1,52 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: #f0f4f8;
+}
+
+.container {
+max-width: 700px;
+margin: 30px auto;
+padding: 20px;
+text-align: center;
+}
+
+h1 {
+color: #2563eb;
+}
+
+form {
+background: white;
+padding: 20px;
+border-radius: 8px;
+margin-bottom: 25px;
+}
+
+input {
+width: 90%;
+padding: 10px;
+margin: 8px;
+box-sizing: border-box;
+}
+
+button {
+padding: 10px 15px;
+margin: 5px;
+border: none;
+border-radius: 5px;
+background-color: #2563eb;
+color: white;
+cursor: pointer;
+}
+
+button:hover {
+background-color: #1d4ed8;
+}
+
+.employee {
+background: white;
+padding: 15px;
+margin: 12px 0;
+border-radius: 8px;
+border: 1px solid #ddd;
+}
